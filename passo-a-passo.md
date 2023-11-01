@@ -222,7 +222,7 @@
    resultado = db.session.execute(query)
    print(resultado.scalar())
    ```
-   Produzirá como saída:
+   Produzira como saída:
    
    ```
    Retornando todos os registros
