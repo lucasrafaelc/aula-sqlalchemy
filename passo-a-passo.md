@@ -144,13 +144,13 @@
            db.drop_all()
            db.create_all()
    
-       admin = Perfil(nome="Admin")
-       moderador = Perfil(nome="Moderador")
-       usuario = Perfil(nome="Usuário")
+           admin = Perfil(nome="Admin")
+           moderador = Perfil(nome="Moderador")
+           usuario = Perfil(nome="Usuário")
 
-       joao = Usuario(usuario='joao123', senha='jj112', perfil=admin)
-       susan = Usuario(usuario='susan', senha='su21', perfil=usuario)
-       denise = Usuario(usuario='denise99', senha='deni456', perfil=moderador)
+           joao = Usuario(usuario='joao123', senha='jj112', perfil=admin)
+           susan = Usuario(usuario='susan', senha='su21', perfil=usuario)
+           denise = Usuario(usuario='denise99', senha='deni456', perfil=moderador)
    ```
 
    **Inserção**:
