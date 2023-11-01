@@ -134,7 +134,7 @@
    Para saber mais consulte [Flask-Migrate](https://flask-migrate.readthedocs.io/en/latest/) e o [Alembic](https://alembic.sqlalchemy.org/en/latest/index.html)
 
 
- Operações no Banco de Dados
+ ## Operações no Banco de Dados
 
    Vejamos agora algumas funções para manipular dados na biblioteca SQLAlchemiy. Iniciaremos criando alguns objetos:
    
