@@ -136,7 +136,7 @@
 
  ## Operações no Banco de Dados
 
-   Vejamos agora algumas funções para manipular dados na biblioteca SQLAlchemiy. Iniciaremos criando alguns objetos:
+   Vejamos agora algumas funções para manipular dados na biblioteca SQLAlchemy. Iniciaremos criando alguns objetos:
    
    ```python
    def criar_tabelas():
